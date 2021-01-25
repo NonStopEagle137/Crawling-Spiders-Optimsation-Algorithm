@@ -18,7 +18,7 @@ and the location of the **Goal** by **1/2** (Inroducing Zeno's second paradox he
 * Repeating the same procedure, we eventually arrive at the optima (Global or local) depending on the hyper-parameters (and yes there are hyper-parameters).
 
 ### So where is the Zeno's Second Paradox in here?
-Well, when the `<n-1>` points translate toward the **Goal**, the distance is successively reduced by 2. This means that the points can never
+Well, when the `<n-1>` points translate toward the **Goal**, the distance is successively (1/2)-ed. This means that the points can never
 actually reach the **Goal** even as the number of iterations -> infinity. [Although they can, because of the inherent aproximations of calculations in computers].
 
 ### Is the implementation of Zeno's Second Paradox beneficial to the Optimization process
