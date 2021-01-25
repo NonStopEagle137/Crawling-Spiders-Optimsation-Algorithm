@@ -40,6 +40,6 @@ Also a Big thank to github user `lacerdamarcelo` for making the python wrapper t
   year = {2019},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/charlespwd/project-title}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+  howpublished = {\url{https://github.com/NonStopEagle137/Crawling-Spiders-Optimsation-Algorithm}},
 }`
+or make an appropriate citation of this repository yourself.
