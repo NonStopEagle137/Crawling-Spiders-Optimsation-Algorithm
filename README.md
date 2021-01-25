@@ -32,3 +32,14 @@ for fast arrival at local optima (Generally accepted as good enough in neural ne
 N. H. Awad, M. Z. Ali, J. J. Liang, B. Y. Qu and P. N. Suganthan, "Problem Definitions and Evaluation Criteria for the CEC 2017 Special Session and Competition on Single Objective Bound Constrained Real-Parameter Numerical Optimization," Technical Report, Nanyang Technological University, Singapore, November 2016
 
 Also a Big thank to github user `lacerdamarcelo` for making the python wrapper to the C Objective functions.
+
+### If you find this Optimisation Idea or this repository useful in any manner, please cite 
+`@misc{Athrva Pandhare,
+  author = {Athrva Pandhare},
+  title = {Crawling Spiders Optimisation Algorithm},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/charlespwd/project-title}},
+  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+}`
