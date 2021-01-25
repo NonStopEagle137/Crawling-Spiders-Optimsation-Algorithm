@@ -27,3 +27,8 @@ actually reach the **Goal** even as the number of iterations -> infinity. [Altho
 Initial steps are very fast in this algorithm, (could be interpreted as a good or bad attribute).
 * I think that this algorithm can be used as an Initialization to the actual Optimization algorithm, it narrows down the search space and allows
 for fast arrival at local optima (Generally accepted as good enough in neural networks).
+
+### The C code, dll files are the test objective functions, the Original implementation of the test objective functions is by,
+N. H. Awad, M. Z. Ali, J. J. Liang, B. Y. Qu and P. N. Suganthan, "Problem Definitions and Evaluation Criteria for the CEC 2017 Special Session and Competition on Single Objective Bound Constrained Real-Parameter Numerical Optimization," Technical Report, Nanyang Technological University, Singapore, November 2016
+
+Also a Big thank to github user `lacerdamarcelo` for making the python wrapper to the C Objective functions.
